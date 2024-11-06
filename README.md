@@ -3,7 +3,7 @@
 # Desafio
 
 
-Vamos implementar uma aplicação para gerar frases aleatórias de filmes e séries, que serão consumidas por uma aplicação front-end, disponibilizada nesse [link](https://github.com/jacqueline-oliveira/3356-java-desafio-front).  
+Vamos implementar uma aplicação para gerar frases aleatórias de filmes e séries, que serão consumidas por uma aplicação front-end, disponibilizada nesse [link](https://github.com/jacqueline-oliveira/3356-java-desafio-front) (como a API deste repositório foi desenvolvida em inglês, é possível que alguns elementos do front-end não estejam totalmente alinhados).  
 
 - Você precisará criar uma API REST, que disponibilize dados através do endpoint **http://localhost:8080/series/frases**;
 - Será necessário criar as classes Controller, Service, Repository para implementar as requisições e busca ao banco;
